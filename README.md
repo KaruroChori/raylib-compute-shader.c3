@@ -1,3 +1,7 @@
+## Compute shaders with Raylib (and C3)
+
+![Screenshot of the demo](./docs/images/screenshot.png)
+
 A demo to show compute shaders working on raylib via C3 bindings.  
 It is a mostly 1-1 translation from [here](https://github.com/c3lang/vendor/blob/main/libraries/raylib55.c3l/raylib.c3i) to get familiar with the language.
 
